@@ -1,1 +1,1 @@
-# Generalised-Polytropic-Stars-with-a-Cosmological-Constant
+# Generalised Polytropic Stars with a Cosmological Constant
